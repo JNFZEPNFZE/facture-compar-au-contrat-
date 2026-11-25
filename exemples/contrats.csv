@@ -1,0 +1,9 @@
+Immeuble;Adresse;Fournisseur;Référence contrat;Prestation;Mots-clés;Prix unitaire HT;Unité;Fréquence;Date début;Date fin;Tolérance %
+Résidence Les Tilleuls;12 rue des Tilleuls 69003 Lyon;Ascenseurs Durand;ASC-2024-017;Entretien ascenseur;Maintenance ascenseur|Visite ascenseur;185,00;visite;mensuelle;01/01/2024;31/12/2026;2
+Résidence Les Tilleuls;12 rue des Tilleuls 69003 Lyon;Net'Pro Services;NET-2025-004;Nettoyage parties communes;Ménage parties communes|Entretien des communs;420,00;mois;mensuelle;01/01/2025;31/12/2026;0
+Résidence Les Tilleuls;12 rue des Tilleuls 69003 Lyon;Net'Pro Services;NET-2025-004;Sortie des conteneurs;Sortie poubelles|Containers;95,00;mois;mensuelle;01/01/2025;31/12/2026;0
+Le Clos Fleuri;8 avenue Jean Jaurès 69007 Lyon;Ascenseurs Durand;ASC-2023-052;Entretien ascenseur;Maintenance ascenseur;210,00;visite;mensuelle;01/07/2023;30/06/2026;2
+Le Clos Fleuri;8 avenue Jean Jaurès 69007 Lyon;Jardins & Co;JAR-2025-011;Entretien espaces verts;Tonte|Jardinage;310,00;passage;bimensuelle;01/03/2025;28/02/2027;0
+Le Clos Fleuri;8 avenue Jean Jaurès 69007 Lyon;Jardins & Co;JAR-2025-011;Taille des haies;Taille haies;45,00;mètre linéaire;annuelle;01/03/2025;28/02/2027;0
+Les Terrasses du Parc;3 place du Parc 69006 Lyon;Net'Pro Services;NET-2024-019;Nettoyage parties communes;Ménage parties communes;560,00;mois;mensuelle;01/01/2024;31/12/2026;0
+Les Terrasses du Parc;3 place du Parc 69006 Lyon;ChauffEco;CHF-2022-003;Maintenance chaufferie;Entretien chaudière|Contrat P2;1250,00;trimestre;trimestrielle;01/10/2022;30/09/2027;3

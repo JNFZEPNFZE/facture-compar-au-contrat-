@@ -1,0 +1,11 @@
+Immeuble;Fournisseur;N° facture;Date;Prestation;Quantité;Prix unitaire HT;Montant HT
+Résidence Les Tilleuls;Ascenseurs Durand;FA-10231;05/10/2026;Maintenance ascenseur octobre;1;185,00;185,00
+Résidence Les Tilleuls;Net'Pro Services;NP-5521;31/10/2026;Ménage parties communes - octobre;1;445,00;445,00
+Résidence Les Tilleuls;Net'Pro Services;NP-5521;31/10/2026;Sortie des conteneurs;1;95,00;95,00
+Résidence Les Tilleuls;Net'Pro Services;NP-5521;31/10/2026;Désinfection local poubelles;1;120,00;120,00
+Le Clos Fleuri;Ascenseurs Durand;FA-10232;05/10/2026;Entretien ascenseur;1;210,00;210,00
+Le Clos Fleuri;Jardins & Co;JC-889;15/10/2026;Tonte et entretien espaces verts;2;310,00;640,00
+Le Clos Fleuri;Jardins & Co;JC-889;15/10/2026;Taille des haies;30;45,00;1350,00
+Le Clos Fleuri;Plomberie Martin;PM-0042;20/10/2026;Débouchage colonne;1;280,00;280,00
+Les Terrasses du Parc;Net'Pro Services;NP-5530;31/10/2026;Nettoyage parties communes;1;560,00;560,00
+Résidence des Lilas;Net'Pro Services;NP-5540;31/10/2026;Nettoyage parties communes;1;380,00;380,00
